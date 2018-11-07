@@ -8,7 +8,6 @@ public class TemperatureConverter {
 
     public static void main(String args[]) throws IOException
     {
-        int x = 0;
         String input = null;
         Temperature inputTemp = null, outputTemp = null;
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
